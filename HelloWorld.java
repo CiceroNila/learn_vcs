@@ -1,5 +1,5 @@
 //Deocamdata mesaj - Learning VSC
-//Denumirea clasei este bine sa fie aceeasi cu numele fisierului 26.06.2024
+//Denumirea clasei este bine sa fie aceeasi cu numele fisierului 26.06.2024..
 public class HelloWorld {
 
 	public static void main (String[] args){
